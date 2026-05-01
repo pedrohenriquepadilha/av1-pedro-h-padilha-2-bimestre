@@ -1,9 +1,10 @@
 header {
-  background-color: #09a3eb;
-  color: rgb(255, 255, 255);
+  background-color: #000000;
+  color: rgb(212, 16, 16);
   padding: 1%;
   text-align: center;
   font-size: 160%;
+  font-family: fantasy;
 }
 body {
   font-family: Arial, Helvetica, sans-serif;
@@ -11,15 +12,16 @@ body {
   padding: 0;
 }
 nav {
-  background-color: #001d7c;
+  background-color: #1d1d1d;
   padding: 10px;
   text-align: center;
   font-size: 115%;
 }
 nav a {
-  color: rgb(255, 255, 255);
+  color: #c41111;
   text-decoration: none;
   padding: 10px;
+  font-family:fantasy;
 }
 main {
   padding: 20px;
@@ -27,16 +29,28 @@ main {
 section {
   margin-bottom: 30px;
   padding: 15px;
-  border: 2px solid #09a3eb;
+  border: 2px solid #D4AF37;
 }
 footer {
   text-align: center;
-  background-color: #001d7c;
+  background-color: #ff0000;
   padding: 15px;
-  color: aliceblue;
+  color: rgb(0, 0, 0);
+  font-family: serif;
+  font-size: 120%;
 }
 .footer-top {
-  background-color: #09a3eb;
+  background-color: #580000;
   text-align: center;
-  padding: 3%;
+  padding: 1%;
+}
+h2 {
+  color: #000000;
+  font-family: fantasy;
+  text-align: center;
+}
+.class-titulo {
+  color: #D4AF37;
+  font-family: fantasy;
+  text-align: center;
 }
