@@ -33,24 +33,30 @@ section {
 }
 footer {
   text-align: center;
-  background-color: #ff0000;
+  background-color: #b60f0f;
   padding: 15px;
   color: rgb(0, 0, 0);
   font-family: serif;
   font-size: 120%;
 }
 .footer-top {
-  background-color: #580000;
+  background-color: #D4AF37;
   text-align: center;
   padding: 1%;
 }
 h2 {
   color: #000000;
-  font-family: fantasy;
+  font-family: cursive;
   text-align: center;
 }
 .class-titulo {
   color: #D4AF37;
   font-family: fantasy;
   text-align: center;
+
+}
+p {
+ text-align: center;
+ font-family: 'Courier New', Courier, monospace;
+ color: #1d1d1d;
 }
