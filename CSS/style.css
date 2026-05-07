@@ -21,7 +21,7 @@ nav a {
   color: #c41111;
   text-decoration: none;
   padding: 10px;
-  font-family:fantasy;
+  font-family: fantasy;
 }
 main {
   padding: 20px;
@@ -29,7 +29,7 @@ main {
 section {
   margin-bottom: 30px;
   padding: 15px;
-  border: 2px solid #D4AF37;
+  border: 2px solid #d4af37;
 }
 footer {
   text-align: center;
@@ -40,23 +40,56 @@ footer {
   font-size: 120%;
 }
 .footer-top {
-  background-color: #D4AF37;
+  background-color: #d4af37;
   text-align: center;
   padding: 1%;
 }
-h2 {
+.class-historia {
   color: #000000;
   font-family: cursive;
   text-align: center;
 }
 .class-titulo {
-  color: #D4AF37;
+  color: #d4af37;
   font-family: fantasy;
   text-align: center;
-
 }
-p {
- text-align: center;
- font-family: 'Courier New', Courier, monospace;
- color: #1d1d1d;
+.class-historiatexto {
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  color: #1d1d1d;
+}
+.class-body3 {
+  background-color: #080000;
+}
+.class-titulo3 {
+  color: rgb(185, 5, 5);
+  text-align: center;
+  font-family: fantasy;
+}
+
+.class-footer3 {
+  text-align: center;
+  background-color: #ff0000;
+  padding: 1px;
+  color: rgb(0, 0, 0);
+  font-family: serif;
+  font-size: 100%;
+}
+.class-torcida {
+  color: #d4af37;
+  text-align: center;
+  font-family: serif;
+}
+.class-subtitulo3 {
+  color: #b60f0f;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-align: center;
+}
+.class-torcidatexto {
+  color: #b60f0f;
+  text-align: center;
+}
+.class-poropopo {
+  text-align: center;
 }
