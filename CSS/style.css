@@ -108,3 +108,47 @@ footer {
 .class-body1 {
   background-color: #e40f0f;
 }
+.class-body2 {
+  background-color: #000000;
+}
+.footer-top2 {
+  background-color: #d4af37;
+  text-align: center;
+  padding: 0.5%;
+}
+.class-titulo2 {
+  color: #d4af37;
+  font-family: fantasy;
+  text-align: center;
+}
+.class-subtitulo2 {
+  color: #d4af37;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-align: center;
+}
+.class-textitulo {
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  color: #ff0000;
+}
+.class-mundial {
+  text-align: center;
+}
+.class-libertadores {
+  text-align: center;
+}
+.class-brasileirao {
+  text-align: center;
+}
+.class-copadobrasil {
+  text-align: center;
+}
+.class-supercopa {
+  text-align: center;
+}
+.class-paulistao {
+  text-align: center;
+}
+.class-brasileiraob {
+  text-align: center;
+}
