@@ -48,6 +48,7 @@ footer {
   color: #000000;
   font-family: cursive;
   text-align: center;
+  font-size: xx-large;
 }
 .class-titulo {
   color: #d4af37;
@@ -58,6 +59,7 @@ footer {
   text-align: center;
   font-family: "Courier New", Courier, monospace;
   color: #1d1d1d;
+  font-size: x-large;
 }
 .class-body3 {
   background-color: #080000;
@@ -80,15 +82,18 @@ footer {
   color: #d4af37;
   text-align: center;
   font-family: serif;
+  font-size: xx-large;
 }
 .class-subtitulo3 {
   color: #b60f0f;
   font-family: Georgia, "Times New Roman", Times, serif;
   text-align: center;
+  font-size: x-large;
 }
 .class-torcidatexto {
   color: #b60f0f;
   text-align: center;
+  font-size: x-large;
 }
 .class-poropopo {
   text-align: center;
@@ -125,11 +130,13 @@ footer {
   color: #d4af37;
   font-family: Georgia, "Times New Roman", Times, serif;
   text-align: center;
+  font-size: xx-large;
 }
 .class-textitulo {
   text-align: center;
   font-family: "Courier New", Courier, monospace;
   color: #ff0000;
+  font-size: xx-large;
 }
 .class-mundial {
   text-align: center;
@@ -151,4 +158,20 @@ footer {
 }
 .class-brasileiraob {
   text-align: center;
+}
+table {
+  width: 80%;
+  margin: 30px auto;
+  border-collapse: collapse;
+}
+th,
+td {
+  border: 1px solid color(srgb red gold rgb(255, 255, 255));
+  padding: 10px;
+}
+th {
+  background-color: aliceblue;
+}
+tr:hover {
+  background-color: #d4af37;
 }
